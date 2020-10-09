@@ -1,0 +1,31 @@
+body {
+	background: cyan;
+}
+h1{
+	text-align: center;
+	stroke: 200px white;
+	text-shadow: 0 0 0.1em blue;
+	font-family: 'Sansita Swashed', cursive;
+}
+#boton{
+	background: lightgreen;
+	text-shadow: 0 0 0.1em lightgray;
+	size: 400px;
+	justify-items: center;
+
+	
+
+}
+#palabra{
+	background: lightgray;
+	transform: scale(1);
+	 display: table-cell;
+	vertical-align: center;
+
+}
+#ingresar{
+	text-decoration-color: white;
+	color: darkblue;
+	font-size: 40px;
+
+}
